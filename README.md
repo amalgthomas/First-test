@@ -1,2 +1,2 @@
 # First-test
-Just ti learn
+Just to learn
